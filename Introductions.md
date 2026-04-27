@@ -19,7 +19,7 @@ and visualizes the results through graphs and graphical representations.
 
 ### Results
 
-![Simulation Results](./media/)
+![Simulation Results](./media/simulation_result.png)
 
 ### Source Code
 
@@ -41,7 +41,7 @@ It visualizes both trajectories to illustrate the differences using graphical re
 
 ### Results
 
-![Simulation Results](./media/)
+![Simulation Results](./media/comparison_demo.png)
 
 ### Source Code
 
