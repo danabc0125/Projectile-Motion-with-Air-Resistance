@@ -27,17 +27,17 @@ and visualizes the results through graphs and graphical representations.
 
 ---
 
-##  Overview: Project 2 - Projectile Comparation(with and without air resistance)
+## Overview: Project 2 - Projectile Comparison (With and Without Air Resistance)
 
 ### Overview
 
-This project compare two simulation: one with air resistance and one without, 
-visualize two projectile trajectory through graphs and graphical representations.
+This project compares two projectile motion simulations: one with air resistance and one without (ideal motion).
+It visualizes both trajectories to illustrate the differences using graphical representations.
 
 ### Features
 
-- Visualizes two real-time projectile trajectory(one with air resistance and one without)
-- Display the two trajectory in the same graph to make it easier to compare the difference
+- Visualizes two real-time projectile trajectories (with and without air resistance)
+- Displays both trajectories on the same graph for direct comparison
 
 ### Results
 
@@ -45,4 +45,4 @@ visualize two projectile trajectory through graphs and graphical representations
 
 ### Source Code
 
-[View Source Code](./projectile_comparation.py)
+[View Source Code](./projectile_comparison.py)
