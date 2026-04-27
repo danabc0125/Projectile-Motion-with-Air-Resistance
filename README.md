@@ -9,7 +9,7 @@ These projects implement projectile motion simulations using the Euler method an
 
 ## Detailed Introduction
 
-[Introduction](./Introductions)
+[Introduction](./Introductions.md)
 
 ---
 
